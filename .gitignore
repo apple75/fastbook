@@ -1,6 +1,6 @@
 .gitattributes
-models/
 tmp/
+datasets/
 *.bak
 *.pkl
 bears/
